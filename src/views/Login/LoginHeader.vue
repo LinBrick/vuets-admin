@@ -2,13 +2,6 @@
   <div class="login-page">
     <div class="page-center">
       <div class="info">
-        <div class="title">
-          <img src="@/assets/logo.png" alt />
-          <span>米修在线</span>
-        </div>
-        <div class="detail">
-          <span>米修在线, 让每个人都有机会学习编程, 更有能力选择学习想要学习的课程!</span>
-        </div>
       </div>
       <!-- 插槽 -->
       <div class="container">
